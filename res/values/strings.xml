@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">To Do Lister</string>
+    <string name="settings">Settings</string>
+    <string name="action_add_item">Add Item</string>
+    <string name="action_priority_view">View by Priority</string>
+    <string name="action_completed_view">Completed View</string>
+    <string name="help">Help</string>
+    <string name="title_activity_add_item">Add Task</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_priority_view">View By Priority</string>
+    <string name="title_activity_completed_view">Completed Tasks</string>
+    <string name="title_activity_help">Help</string>
+    <string name="action_settings">Settings</string>
+      <string name="action_refresh">Refresh</string>
+      <string name="action_delete">Delete</string>
+    <string-array name="priorities">
+        <item >1 - Very High</item>
+        <item >2 - High</item>
+        <item >3 - Medium</item>
+        <item >4 - Low</item>
+        <item >5 - Very Low</item>
+    </string-array>
+
+</resources>

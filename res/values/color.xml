@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red_priority">#f44336</color>
+    <color name="gold_priority">#ff9800</color>
+    <color name="yellow_priority">#fbc02d</color>
+    <color name="green_priority">#8bc34a</color>
+    <color name="dark_green_priority">#388e3c</color>
+
+</resources>

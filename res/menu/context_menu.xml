@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/rename"
+        android:title="Rename">
+    </item>
+    <item
+        android:id="@+id/markCompleted"
+        android:title="Mark Completed">
+    </item>
+    <item
+        android:id="@+id/deleteTask"
+        android:title="Delete">
+    </item>
+
+</menu>

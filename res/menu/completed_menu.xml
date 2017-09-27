@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.todolister.HelpActivity" >
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/delete1"
+        android:showAsAction="always"
+        android:title="@string/action_delete"/>
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/refresing1"
+        android:showAsAction="always"
+        android:title="@string/action_refresh"/>
+
+</menu>
